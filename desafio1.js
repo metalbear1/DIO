@@ -4,7 +4,6 @@ let hero = {
     xp: 7388,
     hp: 200,
     spellSlots: 6,
-    dungeonRNG: parseInt(Math.random() * 10)
 }
 
 let contador = 10;
