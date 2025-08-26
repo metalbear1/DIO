@@ -69,6 +69,6 @@ Este projeto pode ser expandido de várias formas para se tornar um jogo mais co
  * Sistema de nível XP: Adicionar pontos de experiência por vitória e fazer o herói subir de nível.
  * Inventário e Equipamentos: Criar classes para itens (armas, armaduras) que afetem as estatísticas do herói.
  * Interface Gráfica (GUI): Utilizar bibliotecas como p5.js ou frameworks tais como react para criar uma interface visual
- * Refatoração do Código: Dividir o código em arquivos separados para cada classe e função, tornando o projeto modular!
+ * REfatoração do Còdigo: Dividir o código em arquivos separados para cada classe e função, tornando o projeto modular!
 
  Feito por ***Marco Antônio***
